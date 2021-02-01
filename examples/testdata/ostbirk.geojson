@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ostbirk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.753507408495187, 55.960596535012485 ], [ 9.754121345294461, 55.960763204860129 ], [ 9.754676136971995, 55.959549057905029 ], [ 9.753493936120814, 55.95957937074737 ], [ 9.753507408495187, 55.960596535012485 ] ] ] } }
+]
+}
