@@ -1,4 +1,4 @@
-module github.com/alexandrainst/agentlogic
+module github.com/skovsen/agentlogic
 
 go 1.15
 
