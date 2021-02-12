@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	logic "github.com/alexandrainst/agentlogic"
+	logic "github.com/skovsen/agentlogic"
 	"github.com/paulmach/orb/geojson"
 )
 

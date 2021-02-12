@@ -1,3 +1,5 @@
+github.com/alexandrainst/agentlogic v0.2.0 h1:Ngn7+gaz/lAcV9V3r51LByGxecCAxTB7vObNCYkLPhw=
+github.com/alexandrainst/agentlogic v0.2.0/go.mod h1:9GLdOaoCYtoZTljPZmgK8e/fBhQ7fsjCX+adk5k/UQU=
 github.com/gogo/protobuf v1.3.1/go.mod h1:SlYgWuQ5SjCEi6WLHjHCa1yvBfUnHcTbrrZtXPKa29o=
 github.com/kisielk/errcheck v1.2.0/go.mod h1:/BMXB+zMLi60iA8Vv6Ksmxu/1UDYcXs4uQLJ+jE2L00=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
