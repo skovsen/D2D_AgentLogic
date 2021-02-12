@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"log"
 
-	logic "github.com/skovsen/agentlogic"
 	"github.com/paulmach/orb/geojson"
+	logic "github.com/skovsen/D2D_AgentLogic"
 )
 
 func main() {
